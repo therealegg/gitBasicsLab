@@ -63,7 +63,7 @@ public class GiftCard
         
         if (amount < 0.0)
         {
-            result = "ERROR: Your card balance is not large enough to make deduction";
+            result = "ERROR: Your card balance is not large enough to make a deduction";
         }
         else
         {
